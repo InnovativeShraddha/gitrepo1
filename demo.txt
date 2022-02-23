@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 This is changes from local on dev2
-=======
 The chnages from remote
->>>>>>> 3769aeee241d463b5138072ffc01701ee780b6c2
